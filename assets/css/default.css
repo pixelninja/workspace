@@ -1,0 +1,144 @@
+/* @group Fonts */
+	
+ /* @end */
+
+
+/* @Group Layout */
+	
+	body {
+
+	}
+	
+	.wrapper {
+
+	}
+	
+	
+/* @end *
+
+
+/* @group Defaults */
+
+	/*@group Common */
+	
+		a,
+		a:focus {
+			text-decoration: none;
+			outline: none;
+		}
+	
+		h1,
+		h2,
+		h3,
+		h4,
+		h5,
+		h6 {
+
+		}
+		
+	/* @end */
+
+
+	/* @Group copy */
+	
+	/* @end */
+
+
+	/* @Group Forms */		
+		
+	/* @end */
+	
+/* @end */
+
+
+/* @Group Skyline */
+	
+	#skyline {
+		
+	}
+	
+ /* @end */
+
+
+/* @Group Header */
+	
+	#header {
+		
+	}
+	
+ /* @end */
+
+
+/* @Group Navigation */
+
+	/*@group Skyline */
+	
+		#nav-skyline {
+			
+		}
+	
+	/* @end */
+
+
+	/*@group Main Navigation */
+	
+		#nav-main {
+			
+		}
+	
+	/* @end */
+
+
+	/*@group Sub Navigation */		
+	
+		#anv-sub {
+			
+		}
+	
+	/* @end */
+
+
+	/*@group Breadcrumb */
+	
+		#nav-breadcrumb {
+			
+		}
+	
+	/* @end */
+
+
+	/*@group Footer Navigation */
+	
+		#nav-footer {
+			
+		}
+	
+	/* @end */
+
+
+	/* @Group pagination */
+	
+		#nav-pagination {
+			
+		}
+	
+	 /* @end */
+
+/* @end */
+
+
+/* @Group Content */
+	
+	#content {
+
+	}
+	
+ /* @end */
+
+/*@group Footer */
+
+	#footer {
+
+	}
+	
+/* @end */

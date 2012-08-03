@@ -1,0 +1,10 @@
+*.esproj
+.Apple*
+.DS*
+.htaccess
+manifest
+manifest.*/logs/main
+manifest.*/logs/main.*.gz
+manifest.*/subsectionmanager-storage
+manifest.*/cache/*
+
