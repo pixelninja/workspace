@@ -221,7 +221,7 @@
 				
 				<section id="content">
 					<xsl:apply-templates select='data' mode='content' />
-				</div>
+				</section>
 
 				<section id="footer">
 					<footer>
